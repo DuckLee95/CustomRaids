@@ -1,78 +1,80 @@
 # CustomRaids
 
-## 一、简介
+**English** | [简体中文](README.zh-CN.md)
 
-> **CustomRaids** —— 一个灵感来源于 Minecraft 村庄袭击的**自定义袭击插件**。
+## 1. Overview
+
+> **CustomRaids** is a customizable raid plugin inspired by Minecraft village raids.
 >
-> 插件适用于 **Paper/Folia 1.20+ 服务端**，旨在提升 Minecraft 的 PvE 体验、丰富服务器玩法。玩家可以共同防御领地（**Lands、Residence、Towny 或内置自定义区域**），击败一波波怪物并获取袭击奖励。
+> Built for **Paper and Folia 1.20+ servers**, CustomRaids enhances the Minecraft PvE experience with cooperative battles. Players can defend **Lands, Residence, Towny, or built-in custom regions**, defeat waves of monsters, and earn raid rewards.
 >
-> 袭击与不祥征兆支持**全 GUI 配置**，**显示信息均可自定义**，助你打造独一无二的袭击玩法！
+> Raids and Bad Omen effects can be configured entirely through in-game GUIs. Display messages are fully customizable, allowing you to create a unique raid experience for your server.
 
-![CustomRaids 插件介绍](images/profile.png)
+![CustomRaids plugin overview](images/profile.png)
 
-## 二、宣传视频
+## 2. Trailer
 
-[前往哔哩哔哩观看 CustomRaids 宣传视频](https://www.bilibili.com/video/BV1qxREBSEE9/)
+[Watch the CustomRaids trailer on YouTube](https://www.bilibili.com/video/BV1qxREBSEE9/)
 
-## 三、图片展示
+## 3. Screenshots
 
-![多人共同抵御尸潮](images/example1.png)
+![Players defending against waves of monsters](images/example1.png)
 
-> 该图为某公益服的插件测试画面，30 多名玩家在线共同抵御 20 波尸潮，**性能优化极好**。
+> A live test on a public server where more than 30 players defended against 20 waves of monsters with excellent performance.
 
-![袭击管理菜单](images/example2.png)
+![CustomRaids management menu](images/example2.png)
 
-> 袭击、不祥征兆等均**可通过游戏内菜单快速创建**。请输入 `/raids gui` 指令打开管理菜单。
+> Raids and Bad Omen effects can be created quickly through the in-game menu. Run `/raids gui` to open the management menu.
 
-## 四、核心功能
+## 4. Core Features
 
-1. 支持 **Lands / Residence / Towny / 自定义区域** 的袭击系统。
-2. 支持**全 GUI 配置**，无需编写配置文件，在游戏内即可完成袭击配置。
-3. 袭击阶段分为**准备、倒计时和战斗**。
-4. 提供**丰富的袭击玩法**（部分为进阶版专属）。
-5. 支持**自定义不祥征兆**。
-6. 支持**高度自定义的信息显示**（聊天栏消息、动作栏、标题）与**自定义音效**。
-7. 支持 **MythicMobs** 掉落自定义不祥征兆效果：`customraidsomen{omen=<id>;level=<n>}`。
-8. 支持**自定义奖励、实时计分板排行和伤害排行结算**。
-9. 提供**内置自定义区域**，无需安装领地插件。
-10. 支持每周**定时袭击活动**（进阶版功能）。
+1. Raid support for **Lands, Residence, Towny, and custom regions**.
+2. **Complete GUI configuration** with no manual configuration-file editing required.
+3. Multiple raid phases: **preparation, countdown, and battle**.
+4. A wide variety of raid mechanics, with additional features available in the Premium Edition.
+5. **Custom Bad Omen effects**.
+6. Highly customizable **chat messages, action bars, titles, and sounds**.
+7. Custom Bad Omen effects as **MythicMobs** drops: `customraidsomen{omen=<id>;level=<n>}`.
+8. **Custom rewards, live scoreboard rankings, and damage rankings**.
+9. **Built-in custom regions**, so a separate region plugin is optional.
+10. **Scheduled weekly raid events** in the Premium Edition.
 
-## 五、运行要求
+## 5. Requirements
 
-- **服务端：** Paper 或 Folia 1.20+
-- **Java：** Java 21
-- **必要依赖：** MythicMobs
-- **Folia 依赖：** ProtocolLib
-- **袭击区域：** Lands / Residence / Towny / 内置自定义区域
+- **Server software:** Paper or Folia 1.20+
+- **Java:** Java 21
+- **Required dependency:** MythicMobs
+- **Required on Folia:** ProtocolLib
+- **Supported region systems:** Lands / Residence / Towny / built-in custom regions
 
-## 六、Folia 支持
+## 6. Folia Support
 
-> Folia 服务端如需完整显示侧边计分板，请安装 **ProtocolLib**。
+> Install **ProtocolLib** on Folia servers to enable the complete sidebar scoreboard display.
 
-## 七、定价
+## 7. Pricing
 
-- **免费版：** 最多可设置 **3 个**普通袭击。
-- **进阶版：**
-  1. 解锁插件全部功能。
-  2. 加入插件售后群。
-  3. 快速获取插件帮助。
-  4. 快速响应插件功能更新建议。
+- **Free Edition:** Create up to **3 standard raids**.
+- **Premium Edition:**
+  1. Unlock every plugin feature.
+  2. Access the customer support group.
+  3. Receive faster plugin assistance.
+  4. Receive priority responses to feature suggestions.
 
-**价格：30 元** ~~（99 元）~~ ~~（首发特惠）~~（下次大版本更新涨价）
+**Price: CNY 30** ~~(CNY 99)~~ ~~(launch offer)~~ (The price will increase with the next major update.)
 
-[前往爱发电购买](https://ifdian.net/a/yyyork)
+[Purchase CustomRaids](https://ifdian.net/a/yyyork)
 
-## 八、下载
+## 8. Download
 
-[下载 CustomRaids](https://www.yuque.com/u28211816/kcbkk5/tkt9k1wnv4k97ah9)
+[Download CustomRaids](https://www.yuque.com/u28211816/kcbkk5/tkt9k1wnv4k97ah9)
 
-## 九、Bug 反馈
+## 9. Bug Reports
 
-[提交 Bug 反馈](https://www.yuque.com/u28211816/kcbkk5/gpy8bza5ipzvdvsg)
+Please report bugs through [GitHub Issues](https://github.com/DuckLee95/CustomRaids/issues). Include your server software, Minecraft version, plugin version, relevant logs, and steps to reproduce the problem.
 
-## 十、友情链接
+## 10. Community Links
 
 - [MineBBS](https://www.minebbs.com/resources/customraids-residence-land.16339/)
 - [HiMCBBS](https://www.himcbbs.com/resources/1480/)
-- [苦力怕论坛](https://klpbbs.com/thread-171007-1-1.html)
-- [哔哩哔哩](https://www.bilibili.com/video/BV1qxREBSEE9/)
+- [KLPBBS](https://klpbbs.com/thread-171007-1-1.html)
+- [Bilibili](https://www.bilibili.com/video/BV1qxREBSEE9/)
