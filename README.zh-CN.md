@@ -14,7 +14,7 @@
 
 ## 二、宣传视频
 
-[前往 YouTube 观看 CustomRaids 宣传视频](https://www.bilibili.com/video/BV1qxREBSEE9/)
+[前往 BiliBili 观看 CustomRaids 宣传视频](https://www.bilibili.com/video/BV1qxREBSEE9/)
 
 ## 三、图片展示
 

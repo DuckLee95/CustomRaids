@@ -14,7 +14,7 @@
 
 ## 2. Trailer
 
-[Watch the CustomRaids trailer on YouTube](https://www.bilibili.com/video/BV1qxREBSEE9/)
+[Watch the CustomRaids trailer on BiliBili](https://www.bilibili.com/video/BV1qxREBSEE9/)
 
 ## 3. Screenshots
 
