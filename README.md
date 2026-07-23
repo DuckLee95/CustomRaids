@@ -38,6 +38,7 @@
 8. **Custom rewards, live scoreboard rankings, and damage rankings**.
 9. **Built-in custom regions**, so a separate region plugin is optional.
 10. **Scheduled weekly raid events** in the Premium Edition.
+11. Built-in **English and Chinese language support**, with highly customizable language files.
 
 ## 5. Requirements
 
