@@ -41,4 +41,4 @@ CustomRaids 是一款受 Minecraft 村庄袭击启发的自定义袭击插件，
 
 ## Bug 反馈
 
-请参阅[问题反馈](09-bug-report.md)。
+请参阅[问题反馈](08-bug-report.md)。
