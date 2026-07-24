@@ -1,4 +1,4 @@
-# 08. 命令
+# 命令
 
 `plugin.yml` 只定义了一个根命令 `/raids`。下列所有命令均需要 `customraids.raids` 权限，该权限默认仅授予 OP。
 
@@ -54,13 +54,13 @@ Custom 区域保存到 `custom_regions.yml`。
 
 | 命令 | 用途 | 权限 |
 | --- | --- | --- |
-| `/raids omen give <player\|selector> <omenId> [level]` | 为目标记录指定等级的自定义 active omen 状态。 | `customraids.raids` |
-| `/raids omen bottle <player\|selector> <omenId> [level]` | 向目标发放指定 omen 的瓶装物品。等级补全建议为 1～5。 | `customraids.raids` |
-| `/raids omen clear <player\|selector>` | 清除目标的自定义 omen 状态。 | `customraids.raids` |
-| `/raids omen info [player\|selector]` | 查看自己或指定目标的 omen 信息。 | `customraids.raids` |
+| `/raids omen give <player\|selector> <omenId> [level]` | 为目标记录指定等级的自定义 Omen 状态。 | `customraids.raids` |
+| `/raids omen bottle <player\|selector> <omenId> [level]` | 向目标发放指定 Omen 的瓶装物品。等级补全建议为 1～5。 | `customraids.raids` |
+| `/raids omen clear <player\|selector>` | 清除目标的自定义 Omen 状态。 | `customraids.raids` |
+| `/raids omen info [player\|selector]` | 查看自己或指定目标的 Omen 信息。 | `customraids.raids` |
 
 目标参数支持精确在线玩家名、`@a`、`@p`、`@r`、`@s`，以及逗号分隔的多个目标，例如 `Steve,Alex,@s`。
 
 ## Tab 补全
 
-命令类会补全子命令、预设名、Custom 区域名、omen id、选择器、在线玩家，以及激活 GUI 输入提示时的建议值。
+命令类会补全子命令、预设名、Custom 区域名、Omen ID、选择器、在线玩家，以及激活 GUI 输入提示时的建议值。

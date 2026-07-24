@@ -1,4 +1,4 @@
-# 05. 公共 API
+# 公共 API
 
 公共 API 位于 `io.github.ducklee.customraids.api.CustomRaidsApi`，实现类是 `CustomRaidsApiImpl`。
 
