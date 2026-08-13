@@ -61,7 +61,7 @@
   3. Receive faster plugin assistance.
   4. Receive priority responses to feature suggestions.
 
-**Price: CNY 30** ~~(CNY 99)~~ ~~(launch offer)~~ (The price will increase with the next major update.)
+**Price: CNY 58** ~~(CNY 99)~~ ~~(launch offer)~~ (The price will increase with the next major update.)
 
 [Purchase CustomRaids](https://ifdian.net/a/yyyork)
 
